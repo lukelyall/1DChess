@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/luke/1DChess/Content/move-check.mp3</SourceFile>
+  <SourceTime>2024-08-21T10:37:34.4429831-08:00</SourceTime>
+  <DestFile>/home/luke/1DChess/Content/bin/DesktopGL/Content/move-check.xnb</DestFile>
+  <DestTime>2024-08-21T10:44:43.2190034-08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T09:05:56-08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T09:05:56-08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/home/luke/1DChess/Content/bin/DesktopGL/Content/move-check.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
